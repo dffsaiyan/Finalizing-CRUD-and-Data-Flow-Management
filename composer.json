@@ -1,0 +1,17 @@
+{
+    "name": "duong/lab5_mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Duongng06",
+            "email": "duongnguyen0602ls@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
